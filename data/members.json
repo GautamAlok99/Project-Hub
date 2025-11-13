@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gautam Alok",
+    "github": "https://github.com/YOUR_GITHUB",
+    "app": "https://your-app.example.com",
+    "projectsPage": "projects/gautam.html"
+  },
+  {
+    "name": "Friend Name",
+    "github": "https://github.com/FRIEND_GITHUB",
+    "app": "https://friend-app.example.com",
+    "projectsPage": "projects/friend.html"
+  }
+]
