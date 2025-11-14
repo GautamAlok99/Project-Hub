@@ -3,14 +3,16 @@
     "name": "Gautam Alok",
     "role": "Frontend, Automation, AI Projects",
     "github": "https://github.com/GautamAlok99",
-    "app": "https://your-app.example.com",
-    "projectsPage": "projects/gautam.html"
+    "resume": "https://your-app.example.com",
+    "projectsPage": "projects/gautam.html",
+    "contactPage": "contact/gautam.html"
   },
   {
     "name": "Irfa Amann",
     "role": "Backend, APIs, Full-Stack Developer",
     "github": "https://github.com/IrfaAmann",
-    "app": "https://friend-app.example.com",
-    "projectsPage": "projects/friend.html"
+    "resume": "https://friend-app.example.com",
+    "projectsPage": "projects/friend.html",
+    "contactPage": "contact/irfa.html"
   }
 ]
