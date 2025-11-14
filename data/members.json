@@ -1,12 +1,14 @@
 [
   {
     "name": "Gautam Alok",
+    "role": "Frontend, Automation, AI Projects",
     "github": "https://github.com/GautamAlok99",
     "app": "https://your-app.example.com",
     "projectsPage": "projects/gautam.html"
   },
   {
-    "name": "Friend Name",
+    "name": "Irfa Amann",
+    "role": "Backend, APIs, Full-Stack Developer",
     "github": "https://github.com/IrfaAmann",
     "app": "https://friend-app.example.com",
     "projectsPage": "projects/friend.html"
